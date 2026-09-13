@@ -2,27 +2,19 @@
 Guide to extracting BIN files from BIOS update EXEs for flashing onto BIOS chips
 
 ## Programs and tools used in this project:
-> **Terminal** (Any Terminal)
->
-> [UEFITool](https://github.com/LongSoft/UEFITool)
->
-> [7zip](https://github.com/p7zip-project/p7zip)
->
-> [innoextract](https://github.com/dscharrer/innoextract)
->
-> [binwalk](https://github.com/ReFirmLabs/binwalk)
+ **Terminal** (Any Terminal)
+
+ [UEFITool](https://github.com/LongSoft/UEFITool) UEFI firmware image parser / UEFI firmware imaj analiz aracı
+
+ [7zip](https://github.com/p7zip-project/p7zip) Archive extractor / Arşiv ayıklayıcı
+
+ [innoextract](https://github.com/dscharrer/innoextract) Inno Setup unpacker / Inno Setup paket açıcı
+
+ [binwalk](https://github.com/ReFirmLabs/binwalk) Firmware extraction tool /Firmware analiz aracı
 
 
 ---
 
-##  English
-
-### Programs and Tools Used
-* **Terminal:** (Any terminal)
-* **[UEFITool](https://github.com/LongSoft/UEFITool):** UEFI firmware image parser
-* **[7-Zip](https://github.com/p7zip-project/p7zip):** Archive extractor
-* **[innoextract](https://github.com/dscharrer/innoextract):** Inno Setup unpacker
-* **[binwalk](https://github.com/ReFirmLabs/binwalk):** Firmware extraction tool
 
 ###  Legal Disclaimer & Copyright Notice
 This repository is strictly for **educational, research, and technical documentation purposes**.
@@ -33,14 +25,6 @@ This repository is strictly for **educational, research, and technical documenta
 
 ---
 
-##  Türkçe
-
-### Kullanılan Programlar ve Araçlar
-* **Terminal:** (Herhangi bir terminal)
-* **[UEFITool](https://github.com/LongSoft/UEFITool):** UEFI firmware imaj analiz aracı
-* **[7-Zip](https://github.com/p7zip-project/p7zip):** Arşiv ayıklayıcı
-* **[innoextract](https://github.com/dscharrer/innoextract):** Inno Setup paket açıcı
-* **[binwalk](https://github.com/ReFirmLabs/binwalk):** Firmware analiz aracı
 
 ###  Yasal Uyarı ve Telif Hakkı Bildirimi
 Bu depo yalnızca **eğitim, teknik araştırma ve dokümantasyon** amacıyla hazırlanmıştır.
