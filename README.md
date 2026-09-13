@@ -2,7 +2,7 @@
 Guide to extracting BIN files from BIOS update EXEs for flashing onto BIOS chips
 
 ## Programs and tools used in this project:
-> `Terminal` (Linux / Unix)
+> `Terminal` (Any Terminal)
 >
 > [UEFITool](https://github.com/LongSoft/UEFITool)
 >
