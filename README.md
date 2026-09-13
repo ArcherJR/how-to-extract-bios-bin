@@ -15,6 +15,7 @@ BIOS çiplerine yüklenmek üzere, BIOS güncelleme EXE dosyalarından BIN dosya
  **[binwalk](https://github.com/ReFirmLabs/binwalk):**        Firmware extraction tool / Firmware analiz aracı
 
 
+
 ###  Legal Disclaimer & Copyright Notice / Yasal Uyarı ve Telif Hakkı Bildirimi
 This repository is strictly for **educational, research, and technical documentation purposes**.
 Bu depo yalnızca **eğitim, teknik araştırma ve dokümantasyon** amacıyla hazırlanmıştır.
